@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title:  "Tên bài viết"
+date:   2016-09-30 3:0:0              # Thời gian tạo bài viết
+permalink: jekyll/tao-blog-jekyll/    # Liên kết của bài viết, xem phần đầu của bài viết
+categories: [jekyll]                  # Chuyên mục của bài viết
+tags: [jekyll-tuts]                   # Thẻ liên quan tới bài viết
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Nội dung bài viết...
