@@ -28,8 +28,8 @@ Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ng
 ### Demo chương trình “HelloWorld”
 -	Đây là chương trình “Hello world” viết bằng scala:
 > object HelloWorld extends Application {
-> println("Hello, world!")
-> }
+println("Hello, world!")
+}
 
 -	Hoặc:
 > object HelloWorld {
