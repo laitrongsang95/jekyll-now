@@ -46,9 +46,9 @@ Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ng
 
 # Play Frameword
 ### Tổng quan về Play Framework
-1. Khái niệm
+#### Khái niệm
 Play là 1 framework dùng để tạo các ứng dụng web, được viết bằng Scala và Java theo kiến trúc model-view-controller (MVC). Play được tạo ra với mục đích tăng hiệu suất lập trình bằng cách sử dụng các quy ước bằng cầu hình, tải lại mã nóng và hiện thị lỗi trên trình duyệt.
-2. Những đặc điểm nổi bật
+#### Những đặc điểm nổi bật
 Play framework dùng để viết web bằng ngôn ngữ java và scala với tiêu chí nhẹ, không trạng thái, thân thiện với nền tảng web có các điểm sau:
 -	Dựa trên nền tảng java JVM (Java Virtual Machine): có thể sử dụng đa nền.
 -	Thân thiện với người phát triển: Bạn chỉ cần chỉnh sửa text-editor và sau đó nhấn refresh trên trình duyệt web, mọi chỉnh sửa sẽ có hiệu lực.
