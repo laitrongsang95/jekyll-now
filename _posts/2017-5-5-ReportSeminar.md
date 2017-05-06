@@ -26,4 +26,3 @@ Scala hỗ trợ lập trình hàm. Nó hỗ trợ cú pháp ngắn gọn cho vi
 ### Lập trình hướng đối tượng
 Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ngữ thuần lập trình hướng đối tượng trong cú pháp theo quy tắc tất cả giá trị biến đều là một đối tượng. Kiểu dữ liệu cà hành vi của một đối tượng được mô tả bằng các lớp. Các lớp trừu tượng được mở rộng bằng các lớp con và hạn chế các khó khăn trong đa kế thừa.
 
-
