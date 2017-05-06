@@ -43,5 +43,5 @@ Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ng
 
 -	Chạy chương trình:
 > scala HelloWorld
-- Hình minh họa:
+- Hình minh họa :
  ![minhhoa](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo5.JPG)
