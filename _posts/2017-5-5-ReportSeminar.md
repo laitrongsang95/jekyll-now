@@ -27,13 +27,19 @@ Scala hỗ trợ lập trình hàm. Nó hỗ trợ cú pháp ngắn gọn cho vi
 Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ngữ thuần lập trình hướng đối tượng trong cú pháp theo quy tắc tất cả giá trị biến đều là một đối tượng. Kiểu dữ liệu cà hành vi của một đối tượng được mô tả bằng các lớp. Các lớp trừu tượng được mở rộng bằng các lớp con và hạn chế các khó khăn trong đa kế thừa.
 ### Demo chương trình “HelloWorld”
 -	Đây là chương trình “Hello world” viết bằng scala:
-![demo1](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo1.JPG)
+> object HelloWorld extends Application {
+> println("Hello, world!")
+> }
 
 -	Hoặc:
-![demo2](demo.gif)
+> object HelloWorld {
+> def main(args: Array[String]) {
+> println("Hello, world!")
+> }
+> }
 
 -	Chương trình lưu dưới dạng HelloWorld.scala, biên dịch bằng cú pháp:
-![Video Walkthrough](demo.gif)
+> scalac HelloWorld.scala
 
 -	Chạy chương trình:
-![Video Walkthrough](demo.gif)
+> scala HelloWorld
