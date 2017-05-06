@@ -5,7 +5,7 @@ date:   2017-05-06                    # Thời gian tạo bài viết
 permalink: jekyll/tao-blog-jekyll/    # Liên kết của bài viết, xem phần đầu của bài viết
 ---
 # Giới thiệu về Scala
-### Giới thiệu chung
+ ### Giới thiệu chung
 -	Ngôn ngữ Scala (Scalable Language - Ngôn ngữ có khả năng mở rộng) là ngôn ngữ lập trình đa mẫu hình, được thiết kế tích hợp các tính năng của lập trình hướng đối tượng và lập trình hàm.
 -	Scala là 1 ngôn ngữ được thiết kế để có khả năng mở rộng tùy theo nhu cầu của người sử dụng. Ngôn ngữ Scala được sử dụng trong nhiều lĩnh vực , qui mô, từ những đoạn script nhỏ cho đến những hệ thống lớn.
 -	Scala chạy trên nền máy ảo Java và nó tương thích hoàn toàn với Java. Ngoài ra nó cũng có thể chạy trên .NET, tuy nhiên chưa ổn định.
@@ -27,7 +27,7 @@ Scala hỗ trợ lập trình hàm. Nó hỗ trợ cú pháp ngắn gọn cho vi
 Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ngữ thuần lập trình hướng đối tượng trong cú pháp theo quy tắc tất cả giá trị biến đều là một đối tượng. Kiểu dữ liệu cà hành vi của một đối tượng được mô tả bằng các lớp. Các lớp trừu tượng được mở rộng bằng các lớp con và hạn chế các khó khăn trong đa kế thừa.
 ### Demo chương trình “HelloWorld”
 -	Đây là chương trình “Hello world” viết bằng scala:
-![demo1](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo1.JPG) (<img />)
+![demo1](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo1.JPG)
 
 -	Hoặc:
 ![demo2](demo.gif)
