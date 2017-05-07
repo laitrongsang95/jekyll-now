@@ -73,6 +73,5 @@ Play framework dùng để viết web bằng ngôn ngữ java và scala với ti
 #### Cấu trúc Play Framework
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-Inline-style: 
-![alt text](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo5.JPG "Logo Title Text 1")
+
 
