@@ -43,6 +43,7 @@ Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ng
 -	Chạy chương trình:
 > scala HelloWorld
 [kết quả chạy chương trình HelloWorld](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo5.JPG)
+
 # Play Frameword
 ### Tổng quan về Play Framework
 #### Khái niệm
@@ -57,8 +58,9 @@ Play framework dùng để viết web bằng ngôn ngữ java và scala với ti
 #### những công cụ cần thiết
 Để có thể sử dụng được Play Framework cần cài đặt những công cụ sau:
 -	JDK (Java SE Development Kit 8). 
-[http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+[](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 -	Scala. Có thể tải về ở đường dẫn này: http://scala-lang.org/download/
+[]()
 -	Sbt. Có thể tải về ở đường dẫn này: http://www.scala-sbt.org/download.html
 -	Activator. Có thể tải về ở đường dẫn này: https://www.lightbend.com/activator/download
 
