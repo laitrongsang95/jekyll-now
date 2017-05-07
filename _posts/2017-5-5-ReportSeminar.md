@@ -42,7 +42,6 @@ Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ng
 
 -	Chạy chương trình:
 > scala HelloWorld
-- Kết quả:
 [kết quả chạy chương trình HelloWorld](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo5.JPG)
 # Play Frameword
 ### Tổng quan về Play Framework
