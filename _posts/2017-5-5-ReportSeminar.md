@@ -87,7 +87,7 @@ chứa các file như image, javascript, css
 1.	Define những thư viện bạn cần trong build.sbt
 2.	Define các thông số kết nối ở application.conf
 - trong /buid.sbt cần khai báo thư viện sau:
- > libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.34"
+ > - libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.34"
 - trong /conf/application.conf thêm thông tin kết nối:
   > - db.default.driver=com.mysql.jdbc.Driver
   > - db.default.url="jdbc:mysql://localhost/play"
