@@ -72,6 +72,6 @@ Play framework dùng để viết web bằng ngôn ngữ java và scala với ti
 -	[Eclipse](http://scala-ide.org/download/sdk.html)
 #### Cấu trúc Play Framework
 Inline-style: 
-![alt text](https://www.google.com.vn/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjhrdG8ht3TAhXKfLwKHetTAnMQjRwIBw&url=https%3A%2F%2Fhaitaynamkg.blogspot.com%2F2016%2F11%2Ftuyen-tap-nhung-hinh-anh-girl-xinh-ang.html&psig=AFQjCNFtK0zMa8TIjfax8JAoo4LOpkAdsg&ust=1494221357407573 "Logo Title Text 1")
+![alt text](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.PNG "Logo Title Text 1")
 
 
