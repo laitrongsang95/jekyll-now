@@ -84,10 +84,10 @@ chứa các file như image, javascript, css
 ##### [Hình ảnh minh họa cấu trúc](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.png)
 #### 5. Kết nối với database(mySql)
 Đầu tiên ta cần định nghĩa database connection, có 2 chỗ ta cần sửa:
-1.	Define những thư viện bạn cần trong build.sbt .
-2.	Define các thông số kết nối ở application.conf .
+1.	Define những thư viện bạn cần trong build.sbt
+2.	Define các thông số kết nối ở application.conf
 - trong /buid.sbt cần khai báo thư viện sau:
-> libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.34"
+ > libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.34"
 - trong /conf/application.conf thêm thông tin kết nối:
  > db.default.driver=com.mysql.jdbc.Driver
 
