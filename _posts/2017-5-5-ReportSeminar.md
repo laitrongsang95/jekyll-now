@@ -1,8 +1,9 @@
 ---
 layout: post
+tille: Báo cáo tìm hiểu Play(Scala)
 date:   2017-05-06                    # Thời gian tạo bài viết
 ---
-# Giới thiệu về Scala
+## Giới thiệu về Scala
 ### I. Giới thiệu chung
 -	Ngôn ngữ Scala (Scalable Language - Ngôn ngữ có khả năng mở rộng) là ngôn ngữ lập trình đa mẫu hình, được thiết kế tích hợp các tính năng của lập trình hướng đối tượng và lập trình hàm.
 -	Scala là 1 ngôn ngữ được thiết kế để có khả năng mở rộng tùy theo nhu cầu của người sử dụng. Ngôn ngữ Scala được sử dụng trong nhiều lĩnh vực , qui mô, từ những đoạn script nhỏ cho đến những hệ thống lớn.
@@ -42,7 +43,7 @@ Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ng
 -	Chạy chương trình:
 > scala HelloWorld
 - [Kết quả chạy chương trình HelloWorld](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo5.JPG)
-# Play Frameword
+## Play Frameword
 ### I. Tổng quan về Play Framework
 #### 1. Khái niệm
 Play là 1 framework dùng để tạo các ứng dụng web, được viết bằng Scala và Java theo kiến trúc model-view-controller (MVC). Play được tạo ra với mục đích tăng hiệu suất lập trình bằng cách sử dụng các quy ước bằng cầu hình, tải lại mã nóng và hiện thị lỗi trên trình duyệt.
@@ -97,8 +98,8 @@ chứa các file như image, javascript, css
 - Thông tin cung cấp ở trên đó là tên của database (play) cùng đường dẫn đến đó, có username và password do mình tự đặt.
 - Chúng ta chạy lại project và truy cập vào địa chỉ localhost:9000 ta sẽ thấy nó bắt đầu kết nối với database.
 - Vậy là ta đã kết nối được tới mysql database.Bây giờ bạn có thể tự tạo bảng trong cơ sở dữ liệu của bạn hoặc sử dụng evolution trong playframeword để làm việc đó.
-# Video demo
-# Link tài liệu tham khảo
+## Video demo
+## Link tài liệu tham khảo
 
     Copyright [yyyy] [name of copyright owner]
 
