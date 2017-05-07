@@ -97,6 +97,22 @@ chứa các file như image, javascript, css
 - Thông tin cung cấp ở trên đó là tên của database (play) cùng đường dẫn đến đó, có username và password do mình tự đặt.
 - Chúng ta chạy lại project và truy cập vào địa chỉ localhost:9000 ta sẽ thấy nó bắt đầu kết nối với database.
 - Vậy là ta đã kết nối được tới mysql database.Bây giờ bạn có thể tự tạo bảng trong cơ sở dữ liệu của bạn hoặc sử dụng evolution trong playframeword để làm việc đó.
+# Video demo
+# Link tài liệu tham khảo
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
 
 
