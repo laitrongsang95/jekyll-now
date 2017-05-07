@@ -86,16 +86,16 @@ chứa các file như image, javascript, css
 Đầu tiên ta cần định nghĩa database connection, có 2 chỗ ta cần sửa:
 1.	Define những thư viện bạn cần trong build.sbt .
 2.	Define các thông số kết nối ở application.conf .
-trong /buid.sbt cần khai báo thư viện sau:
+- trong /buid.sbt cần khai báo thư viện sau:
 > libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.34"
-trong /conf/application.conf thêm thông tin kết nối
->db.default.driver=com.mysql.jdbc.Driver
->db.default.url="jdbc:mysql://localhost/play"
->db.default.username=sangus1
->db.default.password="12345"
-Thông tin cung cấp ở trên đó là tên của database (play) cùng đường dẫn đến đó, có username và password do mình tự đặt.
-Chúng ta chạy lại project và truy cập vào địa chỉ localhost:9000 ta sẽ thấy nó bắt đầu kết nối với database.
-Vậy là ta đã kết nối được tới mysql database.Bây giờ bạn có thể tự tạo bảng trong cơ sở dữ liệu của bạn hoặc sử dụng evolution trong playframeword để làm việc đó.
+- trong /conf/application.conf thêm thông tin kết nối
+##### >db.default.driver=com.mysql.jdbc.Driver
+##### >db.default.url="jdbc:mysql://localhost/play"
+##### >db.default.username=sangus1
+##### >db.default.password="12345"
+- Thông tin cung cấp ở trên đó là tên của database (play) cùng đường dẫn đến đó, có username và password do mình tự đặt.
+- Chúng ta chạy lại project và truy cập vào địa chỉ localhost:9000 ta sẽ thấy nó bắt đầu kết nối với database.
+- Vậy là ta đã kết nối được tới mysql database.Bây giờ bạn có thể tự tạo bảng trong cơ sở dữ liệu của bạn hoặc sử dụng evolution trong playframeword để làm việc đó.
 
 
 
