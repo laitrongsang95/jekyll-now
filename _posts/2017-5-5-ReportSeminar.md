@@ -82,7 +82,6 @@ Là nơi bạn define toàn bộ URL và match với action của hệ thống.
 chứa toàn bộ các file về application như: controller, view…
  - /public 
 chứa các file như image, javascript, css
-
-- [hình minh họa cấu trúc](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.png)
+ [hình minh họa cấu trúc](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.png)
 
 
