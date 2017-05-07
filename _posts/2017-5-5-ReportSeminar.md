@@ -41,7 +41,7 @@ Giống Java, Scala là ngôn ngữ hướng đối tượng. Scala là ngôn ng
 
 -	Chạy chương trình:
 > scala HelloWorld
-- [kết quả chạy chương trình HelloWorld](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo5.JPG)
+- [Kết quả chạy chương trình HelloWorld](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/demo5.JPG)
 # Play Frameword
 ### I. Tổng quan về Play Framework
 #### 1. Khái niệm
@@ -81,7 +81,7 @@ Là nơi bạn define toàn bộ URL và match với action của hệ thống.
 chứa toàn bộ các file về application như: controller, view…
  - /public 
 chứa các file như image, javascript, css
-##### [hình minh họa cấu trúc](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.png)
+##### [Hình ảnh minh họa cấu trúc](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.png)
 #### 5. Kết nối với database(mySql)
 Đầu tiên ta cần định nghĩa database connection, có 2 chỗ ta cần sửa:
 1.	Define những thư viện bạn cần trong build.sbt .
