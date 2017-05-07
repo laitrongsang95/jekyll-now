@@ -88,6 +88,7 @@ chứa các file như image, javascript, css
 1.	Define những thư viện bạn cần trong build.sbt
 2.	Define các thông số kết nối ở application.conf
 - trong /buid.sbt cần khai báo thư viện sau:
+ > - libraryDependencies += jdbc  
  > - libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.34"
 - trong /conf/application.conf thêm thông tin kết nối:
   > - db.default.driver=com.mysql.jdbc.Driver
@@ -99,6 +100,7 @@ chứa các file như image, javascript, css
 - Chúng ta chạy lại project và truy cập vào địa chỉ localhost:9000 ta sẽ thấy nó bắt đầu kết nối với database.
 - Vậy là ta đã kết nối được tới mysql database.Bây giờ bạn có thể tự tạo bảng trong cơ sở dữ liệu của bạn hoặc sử dụng evolution trong playframeword để làm việc đó.
 ## Video demo
+[Demo create project "HelloWorld" by Scala](https://www.youtube.com/watch?v=0BPlSuW6Ji8)
 
 ## Link tài liệu tham khảo
    
