@@ -71,7 +71,18 @@ Play framework dùng để viết web bằng ngôn ngữ java và scala với ti
 -	[IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 -	[Eclipse](http://scala-ide.org/download/sdk.html)
 #### Cấu trúc Play Framework
-Inline-style: 
-- ![alt text](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.png "Logo Title Text 1")
+**Những phần quan trọng:** 
+- /buid.sbt
+Là file định nghĩa các plugin muốn dùng trong project.
+- /conf/application.conf 
+Là nơi bạn define toàn bộ conf ứng với plugin trong buid.sbt như kết nối database, akka…
+- /conf/routes
+Là nơi bạn define toàn bộ URL và match với action của hệ thống.
+- /app 
+chứa toàn bộ các file về application như: controller, view…
+ - /public 
+chứa các file như image, javascript, css
+
+- ![hình minh họa cấu trúc](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.png "Logo Title Text 1")
 
 
