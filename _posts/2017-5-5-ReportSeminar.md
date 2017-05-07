@@ -56,7 +56,8 @@ Play framework dùng để viết web bằng ngôn ngữ java và scala với ti
 ### Bắt đầu làm việc với Play Framework
 #### những công cụ cần thiết
 Để có thể sử dụng được Play Framework cần cài đặt những công cụ sau:
--	JDK (Java SE Development Kit 8). [Có thể tải về ở đường dẫn này] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+-	JDK (Java SE Development Kit 8). 
+[http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 -	Scala. Có thể tải về ở đường dẫn này: http://scala-lang.org/download/
 -	Sbt. Có thể tải về ở đường dẫn này: http://www.scala-sbt.org/download.html
 -	Activator. Có thể tải về ở đường dẫn này: https://www.lightbend.com/activator/download
