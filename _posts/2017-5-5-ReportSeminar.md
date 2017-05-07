@@ -101,6 +101,7 @@ chứa các file như image, javascript, css
 - Vậy là ta đã kết nối được tới mysql database.Bây giờ bạn có thể tự tạo bảng trong cơ sở dữ liệu của bạn hoặc sử dụng evolution trong playframeword để làm việc đó.
 ## Video demo
 [Demo create project "HelloWorld" by Scala](https://www.youtube.com/watch?v=0BPlSuW6Ji8)
+[Demo connect mySQL DB with play framework](https://youtu.be/8qujfLmDtZI)
 
 ## Link tài liệu tham khảo
    
