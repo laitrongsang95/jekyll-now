@@ -2,10 +2,9 @@
 layout: post
 title:  "Báo Cáo Play(Scala)"
 date:   2017-05-06                    # Thời gian tạo bài viết
-permalink: jekyll/tao-blog-jekyll/    # Liên kết của bài viết, xem phần đầu của bài viết
 ---
 # Giới thiệu về Scala
- ### Giới thiệu chung
+### Giới thiệu chung
 -	Ngôn ngữ Scala (Scalable Language - Ngôn ngữ có khả năng mở rộng) là ngôn ngữ lập trình đa mẫu hình, được thiết kế tích hợp các tính năng của lập trình hướng đối tượng và lập trình hàm.
 -	Scala là 1 ngôn ngữ được thiết kế để có khả năng mở rộng tùy theo nhu cầu của người sử dụng. Ngôn ngữ Scala được sử dụng trong nhiều lĩnh vực , qui mô, từ những đoạn script nhỏ cho đến những hệ thống lớn.
 -	Scala chạy trên nền máy ảo Java và nó tương thích hoàn toàn với Java. Ngoài ra nó cũng có thể chạy trên .NET, tuy nhiên chưa ổn định.
