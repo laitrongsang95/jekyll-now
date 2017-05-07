@@ -83,6 +83,6 @@ chứa toàn bộ các file về application như: controller, view…
  - /public 
 chứa các file như image, javascript, css
 
-- ![hình minh họa cấu trúc](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.png "Logo Title Text 1")
+- [hình minh họa cấu trúc](https://github.com/laitrongsang95/laitrongsang95.github.io/blob/master/images/struct.png)
 
 
