@@ -61,13 +61,12 @@ Play framework dùng để viết web bằng ngôn ngữ java và scala với ti
 -	[Sbt](http://www.scala-sbt.org/download.html)
 -	[Activator](https://www.lightbend.com/activator/download) 
 #### Tạo project mới
-Tạo project Play Framework có 2 cách
+1. Tạo project Play Framework có 2 cách
 - Tạo project dùng sbt: gõ lệnh trên cửa sổ command line 				
 > sbt new playframework/play-scala-seed.g8
 - [Download các project đã được tạo sẵn trên trang wed](https://playframework.com/download#examples)
-Sau khi tạo project xong. Trên cửa sổ cmd gõ lệnh “cd myproject” (myproject là tên project vừa được tạo). 
-Gõ lệnh “sbt run” và truy cập vào địa chỉ “localhost:9000” để xem kết quả.
-
+2. Sau khi tạo project xong. Trên cửa sổ cmd gõ lệnh “cd myproject” (myproject là tên project vừa được tạo). 
+3. Gõ lệnh “sbt run” và truy cập vào địa chỉ “localhost:9000” để xem kết quả.
 #### Một số IDE cho Scala và Play Framework
 -	[IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 -	[Eclipse](http://scala-ide.org/download/sdk.html)
