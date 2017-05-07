@@ -1,6 +1,6 @@
 ---
 layout: post
-tille: Báo cáo tìm hiểu Play(Scala)
+title: Báo cáo tìm hiểu Play(Scala)
 date:   2017-05-06                    # Thời gian tạo bài viết
 ---
 ## Giới thiệu về Scala
