@@ -27,7 +27,7 @@ date:   2017-06-25                    # Thời gian tạo bài viết
   - [https://www.w3schools.com/](https://www.w3schools.com/)
   - [http://blogradio.vn/trang-chu.html](http://blogradio.vn/trang-chu.html)
 ### III. Link website
-- [link website](https://project-1312479-1312432.herokuapp.com/)
+- [https://project-1312479-1312432.herokuapp.com/](https://project-1312479-1312432.herokuapp.com/)
 
 
 
